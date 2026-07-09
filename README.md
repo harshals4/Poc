@@ -36,7 +36,7 @@ pip install fastapi uvicorn docusign-esign pydantic
 
 
 
-## some working expamples
+## Some working expamples
 
 ### Request body: 
 > <img width="1462" height="682" alt="image" src="https://github.com/user-attachments/assets/1faa4605-1bf2-4813-b469-49ae037ba165" />
