@@ -32,6 +32,7 @@ Before running this project, you must have a [DocuSign Developer Account](https:
 **2. Install the required dependencies:**
 ```bash
 pip install fastapi uvicorn docusign-esign pydantic
+```
 
 
 
