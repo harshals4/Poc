@@ -44,6 +44,15 @@ pip install fastapi uvicorn docusign-esign pydantic
 ### Response structure:
 > <img width="1410" height="497" alt="image" src="https://github.com/user-attachments/assets/5c781f3c-a4df-4a5e-a8dd-d9b15592a571" />
 
+### Document page using return link:
+> <img width="1907" height="1013" alt="image" src="https://github.com/user-attachments/assets/c7afd9f0-8fac-4602-bf25-8884b61a27c1" />
+
+### Document sign button and placeholder:
+> <img width="1908" height="915" alt="image" src="https://github.com/user-attachments/assets/99dd04b8-7601-4c82-be99-94aa7f4217b9" />
+
+### After placing signature we will get option to save:
+> <img width="1901" height="912" alt="image" src="https://github.com/user-attachments/assets/a1375618-af92-4ff1-9017-74e8a612fe22" />
+
 ### Email notification:
 > <img width="1393" height="782" alt="image" src="https://github.com/user-attachments/assets/988ca032-8533-4c87-b3ab-2bffcd515638" />
 
